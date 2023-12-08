@@ -1,11 +1,13 @@
 {
   "name": "my-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "This is a package for handling transactions with Spreedly API.",
   "devDependencies": {
     "@types/jest": "^29.5.11"
   },
   "dependencies": {
     "node-ts": "^6.0.1",
-    "winston": "^3.3.3"
+    "winston": "^3.3.3",
+    "axios": "^0.21.1"
   }
 }
